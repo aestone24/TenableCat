@@ -3,7 +3,7 @@ A script to quickly categorize tenable findings
 
 
 ## Installation:
-```git clone github.com/aestone24/TenableCat/TenableCat.git```
+```git clone github.com/aestone24/TenableCat/```
 
 ## Running the Script
 ```./TenableCat.sh <Source File>.xlsx```
